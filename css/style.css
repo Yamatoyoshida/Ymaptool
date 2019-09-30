@@ -1,0 +1,24 @@
+#map img{max-width:none;}
+
+
+.entry-title {
+    display: none;
+}
+
+#main #core {
+    padding: 0 5px;
+    margin: 0px;
+}
+
+.container {
+    margin: auto;
+    max-width: 100%;
+}
+
+#primary {
+    margin: 5px 0 0 0;
+}
+
+.meta-box {
+    display: none;
+}
